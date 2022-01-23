@@ -1,0 +1,16 @@
+{
+  "name": "danmercc/backuper",
+  "authors": [
+    {
+      "name": "Danmer Ccoscco",
+      "email": "danmerccoscco@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "DanmerCC\\Backuper\\": "src/"
+    }
+  },
+  "require": {}
+}
